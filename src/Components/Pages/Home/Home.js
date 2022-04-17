@@ -10,6 +10,8 @@ const Home = () => {
                     <h1 className='home-title text-primary '>Building <br />
                         <span className='fw-bold text-danger ds-1'>Great Smiles</span>
                     </h1>
+                    <p className='para py-2'>We are specialists in both pediatric dentistry and orthodontics, enabling us to care for your child’s smile at every stage of their growth and development.</p>
+                    <button className='btn btn-primary'>Request Appoinment</button>
                 </div>
                 <div className="col-md-6 col-12">
                     <img src={banner} alt="" />
