@@ -1,9 +1,21 @@
 import React from 'react';
+import banner from '../../images/banner.png'
+import './Home.css'
 
 const Home = () => {
     return (
-        <div>
-            <h1>This is home page</h1>
+        <div className='container mt-4'>
+            <div className="row justify-content-center align-items-center">
+                <div className="col-md-6 col-12">
+                    <h1 className='home-title text-primary '>Building <br />
+                        <span className='fw-bold text-danger ds-1'>Great Smiles</span>
+                    </h1>
+                </div>
+                <div className="col-md-6 col-12">
+                    <img src={banner} alt="" />
+                </div>
+            </div>
+
         </div>
     );
 };
