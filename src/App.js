@@ -13,6 +13,7 @@ import NotFound from './Components/Pages/NotFoud/NotFound';
 import ServiceDetails from './Components/Pages/Services/ServiceDetails/ServiceDetails';
 import CheckOut from './Components/Pages/Services/CheckOut/CheckOut';
 import RequireAuth from './Components/Pages/Login/RequireAuth/RequireAuth';
+import Footer from './Components/Pages/Shared/Footer/Footer';
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
         </RequireAuth>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

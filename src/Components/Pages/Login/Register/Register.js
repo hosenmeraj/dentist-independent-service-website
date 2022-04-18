@@ -69,10 +69,10 @@ const Register = () => {
     }
     const navigate = useNavigate()
     const location = useLocation()
-    // const from = location.state?.from?.pathname || "/";
+    const from = location.state?.from?.pathname || "/";
     useEffect(() => {
         if (user) {
-            navigate('/home')
+            navigate(from)
         }
     }, [user])
     useEffect(() => {
