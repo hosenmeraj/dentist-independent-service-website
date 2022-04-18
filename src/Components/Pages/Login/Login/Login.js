@@ -57,6 +57,9 @@ const Login = () => {
         signInWithEmailAndPassword(userInfo.email, userInfo.password)
 
     }
+    // if (loading) {
+    //     return <p>Loading...</p>
+    // }
     const resetPassword = async (event) => {
         // const emailRegex = /\S+@\S+\.\S+/;
         // const validEmail = emailRegex.test(event.target.value)

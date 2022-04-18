@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Cosmetic Dentistry",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/XSypmXr/services-6.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pediatric Dentistry",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/nndptJw/services-5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Emergency Dental Care",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/dcLrTTC/services-2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dental Bridges",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/mqbQTvP/services-3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dental Implants",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/dBTtcsG/services-4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dental Crowns",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/nndptJw/services-5.jpg"
+    }
+]

@@ -1,5 +1,6 @@
 import React from 'react';
 import banner from '../../images/banner.png'
+import Services from '../Services/Services';
 import './Home.css'
 
 const Home = () => {
@@ -17,7 +18,7 @@ const Home = () => {
                     <img src={banner} alt="" />
                 </div>
             </div>
-
+            <Services></Services>
         </div>
     );
 };
